@@ -1,6 +1,5 @@
 # Covid-Predictive-Models
-Decision Trees, Logistic Regression and Neural Network for Covid prediction cases
-The techniques used in this project are:
+Decision Trees, Logistic Regression and Neural Network for Covid prediction cases. The techniques used in this project are:
 1. Data Pre-processing
    - Data cleaning
    - Handle outliers
